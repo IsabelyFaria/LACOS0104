@@ -1,2 +1,3 @@
-Isabely Faria e Miguel Mussolini
+Isabely Faria
+Miguel Mussolini
 Laços de Repetição PHP
