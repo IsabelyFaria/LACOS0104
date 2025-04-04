@@ -1,4 +1,4 @@
-# Faça um programa que exiba a mensagem “Bom dia, boa tarde, boa noite” 5 vezes.
+# Faça um programa que exiba a mensagem “Bom dia, boa tarde, boa noite” 5 vezes
 
 <!DOCTYPE html>
 <html lang="pt-br">
