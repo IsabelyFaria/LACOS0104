@@ -1,4 +1,4 @@
-#F.U.P. que receba uma palavra e a quantidade de vezes que quer que ela seja repetida.
+# F.U.P. que receba uma palavra e a quantidade de vezes que quer que ela seja repetida.
 
 <!DOCTYPE html>
 <html lang="pt-br">
