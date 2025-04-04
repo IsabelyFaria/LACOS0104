@@ -6,13 +6,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>exercicio 1</title>
+    <title>exercicio 2/title>
 </head>
 <body>
     <?php
-    for ($i = 0; $i < 5; $i++)
+    for ($i = 0; $i < 10; $i++)
     {
-        echo "Bom dia, boa tarde, boa noite <br>";
+        echo $i . "<br>";
     }
     ?>
 </body>
