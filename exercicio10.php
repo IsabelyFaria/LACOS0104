@@ -1,4 +1,4 @@
-# F.U.P. que receba um número e o seu intervalo e exiba todos os números do número digitado até 0, respeitando o seu intervalo.
+# F.U.P. que receba um número e o seu intervalo e exiba todos os números do número digitado até 0, respeitando o seu intervalo
 
 <!DOCTYPE html>
 <html lang="pt br">
