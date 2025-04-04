@@ -1,4 +1,4 @@
-#F.U.P. que receba um número e mostre a tabuada dele.
+# F.U.P. que receba um número e mostre a tabuada dele.
 
 <!DOCTYPE html>
 <html lang="pt br">
