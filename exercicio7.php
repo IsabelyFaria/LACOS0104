@@ -1,4 +1,4 @@
-#F.U.P. que receba um número e mostre todos os números pares que existem do número digitado até 0.
+# F.U.P. que receba um número e mostre todos os números pares que existem do número digitado até 0.
 
 <!DOCTYPE html>
 <html lang="pt br">
